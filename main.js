@@ -75,3 +75,5 @@ const lanciaDado = () => {
 lanciaDado()
   .then(risultato => console.log('Il dado ha lanciato:', risultato))
   .catch(err => console.error(err));
+
+
